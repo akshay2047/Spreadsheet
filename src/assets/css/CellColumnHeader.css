@@ -1,0 +1,15 @@
+.cell-column-header{
+  line-height: 25px;
+  height: 25px;
+  width: 80px;
+  border: 1px solid #C0C0C0;
+  border-left-width: 0;
+  display: inline-block;
+  background-color: #f3f3f3;
+  text-align: center;
+  cursor: default;
+}
+
+.cell-column-header.focus{
+  background-color: #DDDDDD;
+}

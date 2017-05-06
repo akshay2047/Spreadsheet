@@ -1,0 +1,24 @@
+.cell-container{
+  height: 90%;
+  white-space: nowrap;
+}
+
+.cell-column-header-container, .data-cell-container{
+  display: block;
+}
+
+.data-cell-container-row{
+  height: 25px;
+  display: block;
+}
+
+.cell-row-header-container{
+  display: inline-block;
+  float: left;
+  height: 100%;
+  width: 50px;
+}
+
+.right-container{
+ display: inline-block;
+}
